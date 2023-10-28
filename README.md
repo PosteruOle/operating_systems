@@ -1,7 +1,7 @@
-# operating_systems
+# Operating systems
 Colection of some operating system concepts.
 
-Course content:
+## Course content:
 - Introduction to operating systems: basic concepts; historical overview.
 - Operating system design and architecture: monolith, micro and hybrid kernels.
 - Process management: concurrency, process states and state diagrams; operating system structures
